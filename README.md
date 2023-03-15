@@ -1,1 +1,2 @@
-# cuenin_company_employee
+# nom d'utilisateur : admin
+# mot de passe : admdp
